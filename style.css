@@ -44,12 +44,14 @@ aside {
     background-color: darkgoldenrod;
     grid-area: aside;
     font-size: 2rem;
+    text-align: justify;
     font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
 }
 p {
     background-color:yellow;
     grid-area: p;
     font-size: 2rem;
+    text-align: justify;
     font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
 
 }
